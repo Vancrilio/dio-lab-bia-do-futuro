@@ -5,34 +5,40 @@
 ### Problema
 > Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Muitas pessoas enfrentam dificuldades em organizar suas finanças pessoais, como controlar gastos, planejar metas de economia e evitar endividamento. A falta de acompanhamento em tempo real e de orientação prática leva a decisões financeiras pouco estratégicas.
 
 ### Solução
 > Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente atua de forma proativa, monitorando transações, categorizando despesas automaticamente e enviando alertas quando detecta padrões de risco (como gastos excessivos em determinada categoria). Além disso, sugere planos de economia personalizados e oferece dicas práticas para melhorar a saúde financeira.
 
 ### Público-Alvo
 > Quem vai usar esse agente?
 
-[Sua descrição aqui]
+1. Jovens adultos que estão começando a organizar suas finanças.
+
+2. Profissionais que desejam otimizar seus gastos mensais.
+
+3. Famílias que buscam planejamento financeiro para objetivos de médio e longo prazo.
+
+4. Pequenos empreendedores que precisam separar finanças pessoais das empresariais.
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+FinAI (Financeiro + Inteligência Artificial)
 
 ### Personalidade
 > Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+Proativo: antecipa problemas e sugere soluções antes que se tornem críticos.
 
 ### Tom de Comunicação
 > Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Acessível e claro, sem jargões complexos.
 
 ### Exemplos de Linguagem
 - Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
